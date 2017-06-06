@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "PIDatePicker-Example.app"
-               BlueprintName = "PIDatePicker-Example"
-               ReferencedContainer = "container:PIDatePicker-Example.xcodeproj">
+               BlueprintIdentifier = "450CAD4F1EE7483B00B2814D"
+               BuildableName = "PIDatePicker.framework"
+               BlueprintName = "PIDatePicker"
+               ReferencedContainer = "container:PIDatePicker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "Tests.xctest"
-               BlueprintName = "Tests"
-               ReferencedContainer = "container:PIDatePicker-Example.xcodeproj">
+               BlueprintIdentifier = "450CAD581EE7483C00B2814D"
+               BuildableName = "PIDatePickerTests.xctest"
+               BlueprintName = "PIDatePickerTests"
+               ReferencedContainer = "container:PIDatePicker.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PIDatePicker-Example.app"
-            BlueprintName = "PIDatePicker-Example"
-            ReferencedContainer = "container:PIDatePicker-Example.xcodeproj">
+            BlueprintIdentifier = "450CAD4F1EE7483B00B2814D"
+            BuildableName = "PIDatePicker.framework"
+            BlueprintName = "PIDatePicker"
+            ReferencedContainer = "container:PIDatePicker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -61,16 +61,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PIDatePicker-Example.app"
-            BlueprintName = "PIDatePicker-Example"
-            ReferencedContainer = "container:PIDatePicker-Example.xcodeproj">
+            BlueprintIdentifier = "450CAD4F1EE7483B00B2814D"
+            BuildableName = "PIDatePicker.framework"
+            BlueprintName = "PIDatePicker"
+            ReferencedContainer = "container:PIDatePicker.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -80,16 +79,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "PIDatePicker-Example.app"
-            BlueprintName = "PIDatePicker-Example"
-            ReferencedContainer = "container:PIDatePicker-Example.xcodeproj">
+            BlueprintIdentifier = "450CAD4F1EE7483B00B2814D"
+            BuildableName = "PIDatePicker.framework"
+            BlueprintName = "PIDatePicker"
+            ReferencedContainer = "container:PIDatePicker.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
